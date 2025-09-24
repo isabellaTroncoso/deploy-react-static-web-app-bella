@@ -32,6 +32,10 @@ h1 {
   color: red;
 }
 
+p {
+  color: green;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
